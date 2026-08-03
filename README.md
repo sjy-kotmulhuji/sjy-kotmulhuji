@@ -7,7 +7,7 @@
 - 🔭 On-device AI 시스템반도체 설계과정 수료 예정 (RTL 설계 · UVM 검증 · 임베디드 SW · AI 배포까지)
 - 🎯 검증(Verification) 엔지니어를 목표로 RTL 설계 + UVM 검증 + SW/HW 융합 프로젝트 진행 중
 - 🌱 현재 관심 분야: AMBA 프로토콜(APB/AXI4-Lite), UVM 기반 IP 검증, Jetson 기반 On-device AI
-- 📫 연락처: your-email@example.com
+- 📫 연락처: sjy010805@gmail.com
 
 ---
 
