@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 주연</h1>
+<h1 align="center">송주연 Song Juyeon</h1>
 <h3 align="center">On-device AI 시스템반도체 설계 · Verification Engineer 지망</h3>
 
 ---
