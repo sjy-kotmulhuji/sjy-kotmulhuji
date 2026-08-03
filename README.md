@@ -3,7 +3,10 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍💻 Introduction
+- 경기대학교 전자공학과 졸업(2020/03~2025/08)
+- 한국반도체아카데미 차세대 반도체 장비 설계 전문가 양성 과정 수료(2025/06~08)
+- 한국반도체아카데미 시스템 반도체 RTL 설계 과정 수료(2025/11)
 - 🔭 On-device AI 시스템반도체 설계과정 수료 예정 (RTL 설계 · UVM 검증 · 임베디드 SW · AI 배포까지)
 - 🎯 검증(Verification) 엔지니어를 목표로 RTL 설계 + UVM 검증 + SW/HW 융합 프로젝트 진행 중
 - 🌱 현재 관심 분야: AMBA 프로토콜(APB/AXI4-Lite), UVM 기반 IP 검증, Jetson 기반 On-device AI
