@@ -5,7 +5,7 @@
 ### 👩‍🦰 About me
 - 🎂 2001.08.05
 - 🎓 경기대학교 전자공학과 졸업(2020/03~2025/08)
-- 💌 연락처: sjy010805@gmail.com
+- 💌 E-Mail: sjy010805@gmail.com
  
 ### 🧑‍💻 Technical Training
 - 🖥 On-device AI 시스템반도체 설계과정 수료 예정 (RTL 설계 · UVM 검증 · 임베디드 SW · AI 배포까지)
