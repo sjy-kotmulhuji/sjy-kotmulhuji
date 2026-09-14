@@ -10,7 +10,6 @@
 - FPGA RTL Design
 - Verification(UVM, Testbench)
 - Embedded Programming
-- On-device AI
 
 ### 🧑‍💻 Technical Training
 - 🖥 대한상공회의소 서울기술교육센터 On-device AI 시스템반도체 설계과정 수료(2026/01~2026/08)
