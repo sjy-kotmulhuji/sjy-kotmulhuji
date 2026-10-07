@@ -37,8 +37,8 @@
 | **AMBA APB, RISC-V Multi Cycle CPU 기반 SoC 설계** | Multi-cycle RISC-V CPU 자체 설계 + APB 기반 SoC 통합 (GPIO/FND/UART 등 주변장치 연동) | Verilog HDL, SystemVerilog, Basys3 | [Link](https://github.com/sjy-kotmulhuji/RISC-V_multi_cycle_AMBA_APB_bus) |
 | **SPI / I2C 통신 프로토콜 설계 및 UVM 검증** | SPI, I2C 통신 프로토콜의 Master / Slave 모듈 RTL 설계 및 UVM 구조의 동작 검증 | SystemVerilog, UVM | [Link](https://github.com/sjy-kotmulhuji/I2C_SPI_RTL_UVM) |
 | **AXI4-Lite 기반 IP 설계 및 UVM 검증** | MicroBlaze CPU와 AXI4-Lite 프로토콜로 통신하는 SPI Master / I2C Master IP 설계, MicroBlaze 기반 SoC 시스템 구성, HAL 기반 Layered Architecture C Firmware 구현  | SystemVerilog, UVM, VCS, C | [Link](https://github.com/sjy-kotmulhuji/AXI4_Lite_SPI_I2C_Master) |
-| **AIVIS**  | 산업 현장 작업자의 안전을 실시간으로 관리하기 위한 On-Device AI 영상 관제 시스템 | Python, Jetson Orin Nano, Yolo, Ollama | [Link](https://github.com/sjy-kotmulhuji/AIVIS) |
 | **Rhythm Beat**  | OV7670 + SCCB/I2C로 색상 인식, VGA 출력 기반 리듬게임 구현 | SystemVerilog, Basys3, I2C | [Link](https://github.com/sjy-kotmulhuji/VGA_mini_rhythm_beat) |
+| **스마트 주차장**  | 주차장 빈자리 안내 및 실시간 위치 추적, 출차 시 요금 정산 기능이 있는 스마트 주차장 구 | SystemVerilog, UVM, C, Python, Zybo Z7 | [Link](https://github.com/sjy-kotmulhuji/smart_parking_lot_project) |
 
 ---
 
