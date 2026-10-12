@@ -1,5 +1,5 @@
 <h1 align="center">Song Juyeon</h1>
-<h3 align=left">안녕하세요, 반도체 설계 및 검증 엔지니어 희망하는 송주연입니다!</h3>
+<h3 align=left">안녕하세요, FPGA 설계 및 검증 엔지니어 희망하는 송주연입니다!</h3>
 
 ---
 ### 👩‍🦰 About me
