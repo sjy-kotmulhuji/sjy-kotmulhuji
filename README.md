@@ -9,7 +9,7 @@
 ### 💛 Interest
 - FPGA RTL Design
 - Verification(UVM, Testbench)
-- Embedded Programming
+- C Firmware
 
 ### 🧑‍💻 Technical Training
 - 🖥 대한상공회의소 서울기술교육센터 On-device AI 시스템반도체 설계과정 수료(2026/01~2026/08)
@@ -33,7 +33,7 @@
 | 프로젝트 | 설명 | 사용 기술 | Repo |
 |---|---|---|---|
 | **스마트 주차장**  | - Zybo Z7 보드와 Jetson Nano 보드를 활용한 스마트 주차장 시스템 구현 <br> - 차량 종류에 따른 빈자리 안내 및 실시간 위치 추적, 출차 시 요금 정산 기능 | SystemVerilog, UVM, C, Python, Zybo Z7 | [Link](https://github.com/sjy-kotmulhuji/smart_parking_lot_project) |
-| **AXI4-Lite 기반 IP 설계 및 UVM 검증** | - MicroBlaze CPU와 AXI4-Lite 프로토콜로 통신하는 SPI Master / I2C Master IP 설계 <br> - MicroBlaze 기반 SoC 시스템 구성 <br> - HAL 기반 Layered Architecture C Firmware 구현  | SystemVerilog, UVM, VCS, C | [Link](https://github.com/sjy-kotmulhuji/AXI4_Lite_SPI_I2C_Master) |
+| **AXI4-Lite 기반 SoC 설계 및 UVM 검증** | - MicroBlaze CPU와 AXI4-Lite 프로토콜로 통신하는 SPI Master / I2C Master IP 설계 <br> - MicroBlaze 기반 SoC 시스템 구성 <br> - HAL 기반 Layered Architecture C Firmware 구현  | SystemVerilog, UVM, VCS, C | [Link](https://github.com/sjy-kotmulhuji/AXI4_Lite_SPI_I2C_Master) |
 | **SPI / I2C 통신 프로토콜 설계 및 UVM 검증** | - SPI, I2C 통신 프로토콜의 Master / Slave 모듈 RTL 설계 <br> - UVM 환경 구축을 통한 각 프로토콜 동작 기능 검증 <br> - FPGA 보드에 연결해 SPI Master / Slave 실제 동작 확인 | SystemVerilog, UVM | [Link](https://github.com/sjy-kotmulhuji/I2C_SPI_RTL_UVM) |
 | **AMBA APB, RISC-V Multi Cycle CPU 기반 SoC 설계** | - RISC-V Multi Cycle CPU, APB Bus 설계 <br> - AMBA APB 프로토콜 기반 주변장치(BRAM, GPIO, FND, UART) 설계 <br> - C Firmware를 통한 Memory-mapped IO 제어 | Verilog HDL, SystemVerilog, Basys3 | [Link](https://github.com/sjy-kotmulhuji/RISC-V_multi_cycle_AMBA_APB_bus) |
 | **Rhythm Beat**  | - OV7670 + SCCB/I2C 색상 인식, VGA 출력 기반 리듬게임 구현 | SystemVerilog, Basys3, I2C | [Link](https://github.com/sjy-kotmulhuji/VGA_mini_rhythm_beat) |
