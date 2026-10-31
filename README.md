@@ -1,20 +1,24 @@
-<h1 align="center">Song Juyeon</h1>
-<h3 align=left">안녕하세요, RTL 설계 및 검증 엔지니어 희망하는 송주연입니다!</h3>
+<h1 align="center">🐝 송주연 / Song Juyeon</h1>
+<h3 align="center">
+  <code>RTL DESIGN</code> · <code>VERIFICATION</code> · <code>FPGA</code> · <code>Embedded</code>
+</h3>
 
 ---
 ### 👩‍🦰 About me
 - 🎓 경기대학교 전자공학과 졸업(2020/03~2025/08)
 - 💌 E-Mail: sjy010805@gmail.com
 
-### 💛 Interest
-- FPGA RTL Design
-- Verification(UVM, Testbench)
-- Firmware/Embedded Programming
+### 👩‍🎓 Training
+| Program & Period| Institution | Details |
+| :--- | :--- | :--- |
+| **온디바이스AI 시스템 반도체 설계 1기 <br> `2026.01.20 ~ 2026.08.24 (980h)`** | 대한상공회의소 서울기술교육센터 | - Verilog HDL 기반 디지털 회로 및 SoC 설계 <br> - UVM 기반 검증 환경 구축 및 프로젝트 수행 <br> - C, Python 기반 임베디드 시스템 설계 |
+| **시스템 반도체 RTL 설계 교육 <br> `2025.11.3 ~ 2025.11.28 (120h)`** | 한국반도체아카데미 | - 반도체 설계 기초 이론 <br> - Verilog RTL 설계, FPGA 보드 실습 |
+| **반도체 장비 설계 전문가 양성과정 <br> `2025.06.23~2025.08.29 (300h)`** | 한국반도체아카데미 | - 장비 설계 이론 및 PECVD 장비 설계 프로젝트 |
 
-### 🧑‍💻 Technical Training
-- 🖥 대한상공회의소 서울기술교육센터 On-device AI 시스템반도체 설계과정 수료(2026/01~2026/08)
-- 🖥 한국반도체아카데미 시스템 반도체 RTL 설계 과정 수료(2025/11)
-- 🖥 한국반도체아카데미 차세대 반도체 장비 설계 전문가 양성 과정 수료(2025/06~08)
+### 💛 Interest
+- RTL Design Engineer
+- Verification Engineer
+- Firmware/Embedded SW Engineer
 ---
 
 ### 🛠️ Skills
