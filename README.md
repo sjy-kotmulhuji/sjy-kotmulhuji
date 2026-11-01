@@ -32,7 +32,7 @@
 
 ---
 
-### 📂 Featured Projects
+### 📂 Main Projects
 
 | Project | Overview | Skills |
 |---|---|---|
