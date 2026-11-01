@@ -34,15 +34,15 @@
 
 ### 📂 Featured Projects
 
-| 프로젝트 | 설명 | 사용 기술 | Repo |
-|---|---|---|---|
-| **스마트 주차장**  | - Zybo Z7 보드와 Jetson Nano 보드를 활용한 스마트 주차장 시스템 구현 <br> - 차량 종류에 따른 빈자리 안내 및 실시간 위치 추적, 출차 시 요금 정산 기능 | SystemVerilog, UVM, C, Python, Zybo Z7 | [Link](https://github.com/sjy-kotmulhuji/smart_parking_lot_project) |
-| **AXI4-Lite 기반 SoC 설계 및 UVM 검증** | - MicroBlaze CPU와 AXI4-Lite 프로토콜로 통신하는 SPI Master / I2C Master IP 설계 <br> - MicroBlaze 기반 SoC 시스템 구성 <br> - HAL 기반 Layered Architecture C Firmware 구현  | SystemVerilog, UVM, VCS, C | [Link](https://github.com/sjy-kotmulhuji/AXI4_Lite_SPI_I2C_Master) |
-| **AMBA APB, RISC-V Multi Cycle CPU 기반 SoC 설계** | - RISC-V Multi Cycle CPU, APB Bus 설계 <br> - AMBA APB 프로토콜 기반 주변장치(BRAM, GPIO, FND, UART) 설계 <br> - C Firmware를 통한 Memory-mapped IO 제어 | Verilog HDL, SystemVerilog, Basys3 | [Link](https://github.com/sjy-kotmulhuji/RISC-V_multi_cycle_AMBA_APB_bus) |
-| **SPI / I2C 통신 프로토콜 설계 및 UVM 검증** | - SPI, I2C 통신 프로토콜의 Master / Slave 모듈 RTL 설계 <br> - UVM 환경 구축을 통한 각 프로토콜 동작 기능 검증 <br> - FPGA 보드에 연결해 SPI Master / Slave 실제 동작 확인 | SystemVerilog, UVM | [Link](https://github.com/sjy-kotmulhuji/I2C_SPI_RTL_UVM) |
-| **RISC-V Single Cycle CPU** | - RV32I ISA 기반 RISC-V 구조의 Single Cycle CPU 설계 및 Simulation <br> - C언어 코드를 활용한 Adder 예제 Code & Simulation 분석 | SystemVerilog, Basys3 | [Link](https://github.com/sjy-kotmulhuji/RISC-V_single_cycle_CPU) |
-| **Multi-Functional Timer & Sensor System** | - FPGA 기반 UART 통신을 이용한 센서 및 시계 동작 시스템 <br> - Timer : Stopwatch, Watch 값 표시 <br> - Sensor : DHT11, SR04 센서를 통한 데이터 측정 및 표시 | SystemVerilog, Basys3 | [Link](https://github.com/sjy-kotmulhuji/Multi_Functional_Timer_Sensor_System) |
-| **Rhythm Beat**  | - OV7670 + SCCB/I2C 색상 인식, VGA 출력 기반 리듬게임 구현 | SystemVerilog, Basys3, I2C | [Link](https://github.com/sjy-kotmulhuji/VGA_mini_rhythm_beat) |
+| 프로젝트 | 설명 | 사용 기술 |
+|---|---|---|
+| **[스마트 주차장](https://github.com/sjy-kotmulhuji/smart_parking_lot_project)**  | - Zybo Z7 보드와 Jetson Nano 보드를 활용한 스마트 주차장 시스템 구현 <br> - 차량 종류에 따른 빈자리 안내 및 실시간 위치 추적, 출차 시 요금 정산 기능 | SystemVerilog, UVM, C, Python, Zybo Z7 |
+| **[AXI4-Lite 기반 IP 설계 및 검증](https://github.com/sjy-kotmulhuji/AXI4_Lite_SPI_I2C_Master)** | - MicroBlaze CPU와 AXI4-Lite 프로토콜로 통신하는 SPI Master / I2C Master IP 설계 <br> - MicroBlaze 기반 SoC 시스템 구성 <br> - HAL 기반 Layered Architecture C Firmware 구현  | SystemVerilog, UVM, VCS, C |
+| **[AMBA APB, RISC-V Multi Cycle CPU 기반 SoC 설계](https://github.com/sjy-kotmulhuji/RISC-V_multi_cycle_AMBA_APB_bus)** | - RISC-V Multi Cycle CPU, APB Bus 설계 <br> - AMBA APB 프로토콜 기반 주변장치(BRAM, GPIO, FND, UART) 설계 <br> - C Firmware를 통한 Memory-mapped IO 제어 | Verilog HDL, SystemVerilog, Basys3 |
+| **[SPI / I2C 통신 프로토콜 설계 및 UVM 검증](https://github.com/sjy-kotmulhuji/I2C_SPI_RTL_UVM)** | - SPI, I2C 통신 프로토콜의 Master / Slave 모듈 RTL 설계 <br> - UVM 환경 구축을 통한 각 프로토콜 동작 기능 검증 <br> - FPGA 보드에 연결해 SPI Master / Slave 실제 동작 확인 | SystemVerilog, UVM |
+| **[RISC-V Single Cycle CPU](https://github.com/sjy-kotmulhuji/RISC-V_single_cycle_CPU)** | - RV32I ISA 기반 RISC-V 구조의 Single Cycle CPU 설계 및 Simulation <br> - C언어 코드를 활용한 Adder 예제 Code & Simulation 분석 | SystemVerilog, Basys3 |
+| **[Multi-Functional Timer & Sensor System](https://github.com/sjy-kotmulhuji/Multi_Functional_Timer_Sensor_System)** | - FPGA 기반 UART 통신을 이용한 센서 및 시계 동작 시스템 <br> - Timer : Stopwatch, Watch 값 표시 <br> - Sensor : DHT11, SR04 센서를 통한 데이터 측정 및 표시 | SystemVerilog, Basys3 |
+| **[Rhythm Beat](https://github.com/sjy-kotmulhuji/VGA_mini_rhythm_beat)**  | - OV7670 + SCCB/I2C 색상 인식, VGA 출력 기반 리듬게임 구현 | SystemVerilog, Basys3, I2C |
 
 
 ---
