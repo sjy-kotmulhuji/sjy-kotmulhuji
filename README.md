@@ -14,6 +14,14 @@
 - 컴퓨터활용능력 1급
 - 운전면허 2종 보통
 
+---
+
+### 💛 Interest
+- RTL Design Engineer
+- Verification Engineer
+- Firmware/Embedded SW Engineer
+
+
 ### 👩‍🎓 Training
 | Program & Period| Institution | Details |
 | :--- | :--- | :--- |
@@ -21,10 +29,7 @@
 | **시스템 반도체 RTL 설계 교육 <br> `2025.11.3 ~ 2025.11.28 (120h)`** | 한국반도체아카데미 | - 반도체 설계 기초 이론 <br> - Verilog RTL 설계, FPGA 보드 실습 |
 | **반도체 장비 설계 전문가 양성과정 <br> `2025.06.23 ~ 2025.08.29 (300h)`** | 한국반도체아카데미 | - 장비 설계 이론 및 PECVD 장비 설계 프로젝트 |
 
-### 💛 Interest
-- RTL Design Engineer
-- Verification Engineer
-- Firmware/Embedded SW Engineer
+
 ---
 
 ### 🛠️ Skills
