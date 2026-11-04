@@ -47,7 +47,7 @@
 
 | Project | Overview | Skills |
 |---|---|---|
-| **[스마트 주차장](https://github.com/sjy-kotmulhuji/smart_parking_lot_project)**  | - Zybo Z7 보드와 Jetson Nano 보드를 활용한 스마트 주차장 시스템 구현 <br> - 차량 종류에 따른 빈자리 안내 및 실시간 위치 추적, 출차 시 요금 정산 기능 | SystemVerilog, UVM, C, Python, Zybo Z7 |
+| **[스마트 주차장](https://github.com/sjy-kotmulhuji/smart_parking_lot_project)**  | - Zybo Z7 보드와 Jetson Nano 보드를 활용한 스마트 주차장 시스템 구현 <br> - 차량 종류에 따른 빈자리 안내 및 실시간 위치 추적, 출차 시 요금 정산 기능 | SystemVerilog, UVM, C, Python, Zybo Z7, Jetson Orin Nano |
 | **[AXI4-Lite 기반 IP 설계 및 검증](https://github.com/sjy-kotmulhuji/AXI4_Lite_SPI_I2C_Master)** | - MicroBlaze CPU와 AXI4-Lite 프로토콜로 통신하는 SPI Master / I2C Master IP 설계 <br> - MicroBlaze 기반 SoC 시스템 구성 <br> - HAL 기반 Layered Architecture C Firmware 구현  | SystemVerilog, UVM, VCS, C |
 | **[AMBA APB, RISC-V Multi Cycle CPU 기반 SoC 설계](https://github.com/sjy-kotmulhuji/RISC-V_multi_cycle_AMBA_APB_bus)** | - RISC-V Multi Cycle CPU, APB Bus 설계 <br> - AMBA APB 프로토콜 기반 주변장치(BRAM, GPIO, FND, UART) 설계 <br> - C Firmware를 통한 Memory-mapped IO 제어 | Verilog HDL, SystemVerilog, Basys3 |
 | **[SPI / I2C 통신 프로토콜 설계 및 UVM 검증](https://github.com/sjy-kotmulhuji/I2C_SPI_RTL_UVM)** | - SPI, I2C 통신 프로토콜의 Master / Slave 모듈 RTL 설계 <br> - UVM 환경 구축을 통한 각 프로토콜 동작 기능 검증 <br> - FPGA 보드에 연결해 SPI Master / Slave 실제 동작 확인 | SystemVerilog, UVM |
