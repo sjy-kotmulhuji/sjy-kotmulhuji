@@ -5,19 +5,19 @@
 
 ---
 ### 👩‍🦰 About me
-- 🎓 경기대학교 전자공학과 졸업(2020/03~2025/08)
+- 🎓 경기대학교 전자공학과 졸업 **`2020.03 ~ 2025.08`**
 - 💌 E-Mail: sjy010805@gmail.com
 
 ### 🏆 Certifications & Awards
-- 한국반도체아카데미 원장상 수상
 - TOEIC Speaking AL (160점)
 - 컴퓨터활용능력 1급
 - 운전면허 2종 보통
+- 한국반도체아카데미 원장상 수상
 
 ---
 
 ### 💛 Interest
-- RTL Design Engineer
+- FPGA/RTL Design Engineer
 - Verification Engineer
 - Firmware/Embedded SW Engineer
 
